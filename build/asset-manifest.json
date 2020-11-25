@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Course-Scheduler/static/css/main.a6df056e.chunk.css",
+    "main.js": "/Course-Scheduler/static/js/main.4a33a904.chunk.js",
+    "main.js.map": "/Course-Scheduler/static/js/main.4a33a904.chunk.js.map",
+    "runtime~main.js": "/Course-Scheduler/static/js/runtime~main.63c31103.js",
+    "runtime~main.js.map": "/Course-Scheduler/static/js/runtime~main.63c31103.js.map",
+    "static/js/2.e6590232.chunk.js": "/Course-Scheduler/static/js/2.e6590232.chunk.js",
+    "static/js/2.e6590232.chunk.js.map": "/Course-Scheduler/static/js/2.e6590232.chunk.js.map",
+    "index.html": "/Course-Scheduler/index.html",
+    "precache-manifest.1ec5b5ad62ed818f283fbcf2c0bb467b.js": "/Course-Scheduler/precache-manifest.1ec5b5ad62ed818f283fbcf2c0bb467b.js",
+    "service-worker.js": "/Course-Scheduler/service-worker.js",
+    "static/css/main.a6df056e.chunk.css.map": "/Course-Scheduler/static/css/main.a6df056e.chunk.css.map"
+  }
+}
